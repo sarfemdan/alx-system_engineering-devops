@@ -1,2 +1,4 @@
 #!/bin/bash
 pwd
+echo "what is my name?"
+read name
