@@ -1,1 +1,1 @@
-script that prints the absolute phat name of the current working directory
+shell basics command
