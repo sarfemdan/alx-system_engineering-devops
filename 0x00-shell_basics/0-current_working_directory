@@ -1,3 +1,4 @@
 #!/bin/bash
 echo 'where am i'
+echo 'i live in abuja'
 
