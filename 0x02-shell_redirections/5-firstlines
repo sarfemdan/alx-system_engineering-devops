@@ -1,2 +1,2 @@
 #!/bin/bash
-head -20 /etc/group | tail -n 10 | cat -n
+head + 10 / etc /passwd | cat -n
